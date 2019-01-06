@@ -5,7 +5,7 @@ Group id as com.luv2code.springdemo.demo
 Dependencies as web
 Downloaded the zip and unzipped it, imported as existing maven in elipse
 Now we can run it without 'run as >run on server', just by right clicking on Mycoolappliation.java, clicking run as>java application
-Then we got the white page error whic isnt a error actually just bcz we didnt add any controller(routing)
+Then we got the white page error whic isnt a error actually just as we didnt add any controller(routing)
 So we added our rest controller for /
 	
 	mvnw (linux)+mvnw.cmd (windows) is for 'if you do not have the correct version of maven nstalled, these will automatically download the maven that is required.'
