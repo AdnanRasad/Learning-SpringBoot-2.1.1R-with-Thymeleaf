@@ -30,3 +30,5 @@ So we added our rest controller for /
 	Do not use src/main/webapp if your app is packaged as a JAR, it only works with war packaging, it is silently ignored by most build tools if you generate a jar 
 	
 	For FreeMarker/Thymeleaf/Mustache engines use template folder
+
+Lesson: Chad Derby
